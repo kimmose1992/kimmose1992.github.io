@@ -1,191 +1,28 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://localhost:4000/posts/Git-ID2301001/</loc>
-<lastmod>2023-01-20T09:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/posts/Java-ID2301001/</loc>
-<lastmod>2023-01-20T09:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/posts/Oracle-ID2301001/</loc>
-<lastmod>2023-01-20T09:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/posts/Spring-ID2301001/</loc>
-<lastmod>2023-01-20T09:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/posts/React-ID2301001/</loc>
-<lastmod>2023-01-20T09:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/posts/React-ID2301002/</loc>
-<lastmod>2023-01-20T09:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/posts/React-ID2301003/</loc>
-<lastmod>2023-01-20T09:00:00+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/categories/</loc>
-<lastmod>2023-01-20T13:44:19+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/tags/</loc>
-<lastmod>2023-01-20T13:44:19+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/archives/</loc>
-<lastmod>2023-01-20T13:44:19+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/about/</loc>
-<lastmod>2023-01-20T13:44:19+09:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/id2301001/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/git/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/ruby/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/jekyll/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/chirpy/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/window/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/java/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/jsoup/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/html/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/parser/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/crawling/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/%ED%81%AC%EB%A1%A4%EB%A7%81/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/oracle/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/ora-01741/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/illegal/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/zero/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/spring/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/close/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/sqlsession/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/invocation/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/destroy/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/mybatis/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/react/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/npm/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/err/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/enoent/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/errno-4058/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/id2301002/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/limits/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/renders/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/loop/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/function/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/arrow-function/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/id2301003/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/unique/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/key/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/prop/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tags/map/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/dev/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/git/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/language/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/java/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/database/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/oracle/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/framework/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/spring/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/categories/react/</loc>
-</url>
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      {% if post.lastmod == null %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+      {% endif %}
+
+      {% if post.sitemap.changefreq == null %}
+        <changefreq>daily</changefreq>
+      {% else %}
+        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+      {% endif %}
+
+      {% if post.sitemap.priority == null %}
+          <priority>0.5</priority>
+      {% else %}
+        <priority>{{ post.sitemap.priority }}</priority>
+      {% endif %}
+
+    </url>
+  {% endfor %}
 </urlset>
